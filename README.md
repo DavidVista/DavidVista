@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I’m @DavidVista, actual name - Ilya Grigorev. </h1>
 <h3>👀 I’m interested in computer science and foreign languages. </h3>
-<h3>🌱 I’m currently learning Django framework and python.</h3>
+<h3>🌱 I’m currently learning Parsing on Python.</h3>
 <h3>📫 How to reach me: e-mail: ilyagrigorev0505@gmail.com.</h3>
 <h3>I hope you enjoy staying here! You're always pleased to follow me!</h3>
 <hr>
