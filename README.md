@@ -6,7 +6,6 @@
 <hr>
 <ul> <h3> List of projects </h3>
  <li> <h5> Django web-notepad </h5> </li>
- <li> <h5> "Dungeon-fury" - command-line-game </h5> </li>
  <li> <h5> "CheckResult" - multifunctional parser to check results of exams</h5></li>
  <li> <h5> "2DVecSpace" - simple 2d space made with C++ </h5></li>
 </ul>
