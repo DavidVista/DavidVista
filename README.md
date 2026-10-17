@@ -1,10 +1,20 @@
-<h1 align="center"> Hi, I’m @DavidVista, actual name - Ilya Grigorev. </h1>
-<h3>👀 I’m interested in computer science and foreign languages. </h3>
-<h3>📫 How to reach me: ilyagrigorev0505@gmail.com or @DavidVista.</h3>
-<h3>I hope you enjoy staying here! You're always pleased to follow me!</h3>
-<hr>
+<h1 align="center">Ilya Grigorev | Product Analyst & Data Scientist</h1>
 
-<!---
-DavidVista/DavidVista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>Product Analytics · Recommendation Systems · Applied Machine Learning</b>
+</p>
+
+I work on a social platform powered by recommendation systems, focusing on user behavior, product metrics, and experimentation. My work includes designing and analyzing A/B tests, improving statistical sensitivity with CUPED, and evaluating the impact of ML-driven product changes.
+
+Beyond product analytics, I pursue research-oriented ML projects in **NLP, speech processing, and representation learning**. I'm particularly interested in understanding how models learn meaningful representations and how to translate research ideas into practical solutions.
+
+**Key areas of interest:**
+- **Product Analytics:** A/B testing, metric design, causal inference, user behavior analysis.
+- **Machine Learning:** Recommender systems, representation learning, model evaluation.
+- **Research:** Mandarin phonetics modeling, audio source separation, NLP.
+
+**Pet Projects**: <a href="https://github.com/DavidVista/data_science_projects">link</a>
+
+**Tech stack:** Python, SQL, PyTorch, Scikit-learn, XGBoost, Spark, Airflow, ClickHouse.
+
+<hr>
